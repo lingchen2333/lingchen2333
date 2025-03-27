@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Lingchen  
 
-<!--
-**lingchen2333/lingchen2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Sciences Master's Student** passionate about backend development, full-stack projects, and building scalable systems. Currently, I'm applying for software engineering internships and working on personal projects to enhance my skills.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+💻 **Languages**: Java, Python, JavaScript, C, HTML/CSS  
+⚙️ **Backend**: Node.js, Java, Python  
+🌐 **Frontend**: p5.js, HTML/CSS  
+🛠️ **Tools**: Git, SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects  
+🚀 **[Database Server](https://github.com/lingchen2333/database-server)** – A custom database system built in Java   
+
+### 📫 Let's Connect!  
+📧 **Email**: lilingchen2333@gmail.com   
+💼 **LinkedIn**: [linkedin.com/in/lingchen-li](https://linkedin.com/in/lingchen-li-6478021b9)  
+
+
