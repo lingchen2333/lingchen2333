@@ -4,9 +4,9 @@ I'm a **Computer Sciences Master's Student** passionate about backend developmen
 
 ### 🔧 Tech Stack  
 **Languages**: Java, Python, JavaScript, C, HTML/CSS  
-**Backend**: Spring Boot, Spring Security, Spring Data JPA, Spring AI, Python, Node.js, 
+**Backend**: Spring Boot, Spring Security, Spring Data JPA, Spring AI, Python, Node.js  
 **Frontend**: React + Vite, Tailwind CSS, p5.js, HTML/CSS  
-**Tools**: Git, SQL  
+**Tools**: Git, SQL, Docker  
 
 ### 📌 Featured Projects  
 
