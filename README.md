@@ -10,6 +10,8 @@ I'm a **Computer Sciences Master's Student** passionate about backend developmen
 
 ### 📌 Featured Projects  
 
+**[cvMatch](https://github.com/lingchen2333/cvMatch)** --  a full-stack web application that matches CVs against job descriptions using OpenAI's GPT-4 via LangChain, returning tailored feedback on missing skills and improvements
+
 **Livora** ([backend](https://github.com/lingchen2333/Livora-backend), [frontend](https://github.com/lingchen2333/Livora-frontend)) -- A full-satck online furniture shop with integrated OpenAI CLIP model with Chroma vector store to enable image-based product search
 
 **[Database Server](https://github.com/lingchen2333/database-server)** – A custom database system built in Java   
